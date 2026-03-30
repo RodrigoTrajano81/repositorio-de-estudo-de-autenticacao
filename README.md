@@ -1,12 +1,12 @@
 # Meu Repositório de Estudo de Autenticação
 
-Estudando como criar autenticações no Git hub
+Estudando como criar autenticações no Git Hub
 
 
 
-&nbsp;	1- Autenticação via USUÁRIO E SENHA;
+ 	1- Autenticação via USUÁRIO E SENHA;
 
 
 
-&nbsp;	2- Autenticação via TOKEN DE ACESSO PESSOAL
+ 	2- Autenticação via TOKEN DE ACESSO PESSOAL;
 
